@@ -24,5 +24,5 @@ Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphi
 <a href="https://whateverkeepsthelightson.com/holes"> "Holes" in <i> Whatever Keeps The Lights On </i></a><br/>
 <a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a>                                                             
 # CONTACT
-<a href="https://twitter.com/q_boxo">twitter</a>
+<a href="https://twitter.com/q_boxo">twitter</a><br/>
 all inquires: fifthandthird@gmail.com
