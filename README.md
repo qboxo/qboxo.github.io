@@ -1,8 +1,10 @@
 # Corey Qureshi
-writer, musician, parent<br/>
-Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Nintendo, sunlight, clean spaces, and eating. <br/><br/>
-# WRITINGS
 
+Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Nintendo, sunlight, clean spaces, and eating. <br/><br/>
+# MUSIC
+<a href="https://soundcloud.com/qboxzo"> BOXZO on Soundcloud</a><br/>
+<a href="https://s-ame-kh.bandcamp.com/releases"> NSA: a meditation on hypersexuality & lack of intimacy </a>
+# WRITINGS
 2020<br/><br/>
 <a href="https://www.etsy.com/listing/818134214/stone-fruit-issue-03?ref=listing_published_alert"> "Flutter" in <i> Stone Fruit Mag 03</i></a><br/>
 <a href="https://www.broadstreetreview.com/film-tv/hulu-presents-season-2-of-ramy"> Review of <i>Ramy</i> Season Two </a> <br/>
@@ -18,3 +20,6 @@ Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphi
 <a href= "http://www.recenterpress.com/issue-two-corey-qureshi.html"> "Walking Home" in <i> Recenter Press Poetry Journal</i> </a> <br/>
 "Egg St." in <i> Outwrite Festival Journal 2019</i> (print only) <br/>
 <a href= "https://lovepainandpoetrypublishing.com/services/imagoes"> "The Hourglass" in <i> Imagoes: A Queer Anthology</i></a><br/>
+<a href="https://www.prolitmag.com/issue-one/qureshi"> "Service" in <i> Prolit Mag</i> </a> <br/>
+<a href="https://whateverkeepsthelightson.com/holes"> "Holes" in <i> Whatever Keeps The Lights On </i></a><br/>
+<a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a>                                                             
