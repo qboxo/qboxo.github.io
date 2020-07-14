@@ -1,10 +1,3 @@
-<html>
-<head>
-
-</head>
-<body>
-<img src="https://www.broadstreetreview.com/images/uploads/authors/Corey_Qureshi.jpg" alt="them" height="240" width="180"><br/>
-
 Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Nintendo, sunlight, clean spaces, and eating. <br/><br/>
 # MUSIC <br/>
 <a href="https://soundcloud.com/qboxzo"> BOXZO on Soundcloud</a><br/>
@@ -30,6 +23,6 @@ Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphi
 <a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a>                                                             
 # CONTACT
 <a href="https://twitter.com/q_boxo">twitter</a><br/>
-all inquires: fifthandthird@gmail.com
-</body>
-</html>
+all inquires: fifthandthird@gmail.com<br/> <br/>
+
+<img src="https://www.broadstreetreview.com/images/uploads/authors/Corey_Qureshi.jpg" alt="them" height="240" width="180"><br/>
