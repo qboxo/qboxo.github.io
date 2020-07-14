@@ -5,9 +5,13 @@
 
 Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Scifi, Nintendo, sunlight, clean spaces, and eating. <br/><br/>
 # MUSIC <br>
+
+
 <a href="https://soundcloud.com/qboxzo"> BOXZO on Soundcloud</a><br/>
 <a href="https://s-ame-kh.bandcamp.com/releases"> NSA: a meditation on hypersexuality & lack of intimacy </a>
 # WRITINGS <br>
+
+
 2020<br/>
 <a href="https://www.etsy.com/listing/818134214/stone-fruit-issue-03?ref=listing_published_alert"> "Flutter" in <i> Stone Fruit Mag 03</i></a><br/>
 <a href="https://www.broadstreetreview.com/film-tv/hulu-presents-season-2-of-ramy"> Review of <i>Ramy</i> Season Two </a> <br/>
@@ -25,12 +29,12 @@ Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphi
 <a href= "https://lovepainandpoetrypublishing.com/services/imagoes"> "The Hourglass" in <i> Imagoes: A Queer Anthology</i></a><br/>
 <a href="https://www.prolitmag.com/issue-one/qureshi"> "Service" in <i> Prolit Mag</i> </a> <br/>
 <a href="https://whateverkeepsthelightson.com/holes"> "Holes" in <i> Whatever Keeps The Lights On </i></a><br/>
-<a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a>                                                             
+<a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a><br><br>                                                          
 # CONTACT<br>
-<a href="https://twitter.com/q_boxo">twitter</a><br/>
-all inquires: fifthandthird@gmail.com<br/> <br/>
+<a href="https://twitter.com/q_boxo">twitter</a><br>
+all inquires: fifthandthird@gmail.com<br> <br>
 
-<img src="https://www.broadstreetreview.com/images/uploads/authors/Corey_Qureshi.jpg" alt="them" height="240" width="180"><br/>
+<img src="https://www.broadstreetreview.com/images/uploads/authors/Corey_Qureshi.jpg" alt="them" height="240" width="180"><br>
 
 </head>
 </html>
