@@ -1,4 +1,4 @@
-Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Nintendo, sunlight, clean spaces, and eating. <br/><br/>
+Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Scifi, Nintendo, sunlight, clean spaces, and eating. <br/><br/>
 # MUSIC <br/>
 <a href="https://soundcloud.com/qboxzo"> BOXZO on Soundcloud</a><br/>
 <a href="https://s-ame-kh.bandcamp.com/releases"> NSA: a meditation on hypersexuality & lack of intimacy </a>
