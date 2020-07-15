@@ -4,12 +4,14 @@
   <span data-color="#ffffff" style="background-color: #996633;"></span>
 
 Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphia. Through poetry, fiction and nonfiction, their work focuses on the exploitative conditions of "unskilled" labor under capitalism, interpersonal relationships and identity. They work at an LGBTQ+ center. They're a Taurus that loves Scifi, Nintendo, sunlight, clean spaces, and eating. <br/><br/>
-# MUSIC <br>
+# MUSIC 
+<br>
 
 
 <a href="https://soundcloud.com/qboxzo"> BOXZO on Soundcloud</a><br/>
 <a href="https://s-ame-kh.bandcamp.com/releases"> NSA: a meditation on hypersexuality & lack of intimacy </a><br><br>
-# WRITINGS <br>
+# WRITINGS 
+<br>
 
 
 2020<br/>
@@ -30,7 +32,8 @@ Corey Qureshi (they/them) is a writer, musician, and parent based in Philadelphi
 <a href="https://www.prolitmag.com/issue-one/qureshi"> "Service" in <i> Prolit Mag</i> </a> <br/>
 <a href="https://whateverkeepsthelightson.com/holes"> "Holes" in <i> Whatever Keeps The Lights On </i></a><br/>
 <a href="http://five2onemagazine.com/in-the-shower-by-corey-qureshi/"> "In The Shower" in <i> FIVE2ONE Magazine</i></a><br><br>                                                          
-# CONTACT<br>
+# CONTACT
+<br>
 <a href="https://twitter.com/q_boxo">twitter</a><br>
 all inquires: fifthandthird@gmail.com<br> <br>
 
