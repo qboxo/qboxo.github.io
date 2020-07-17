@@ -7,7 +7,7 @@ html {
 }
 
 #about {
-  columns: 300px 1; text-align: left;
+  columns: 300px 2; text-align: left;
 }
 
 #links {
