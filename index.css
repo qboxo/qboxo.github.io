@@ -6,19 +6,19 @@ html {
   text-align: center;
 }
 
-#music {font-size: 32px;
+#music {font-size: 32px; text-align: center;
 }
 
-#writings {font-size: 32px;
+#writings {font-size: 32px; text-align: center;
 }
 
-#contact {font-size: 32px;
+#contact {font-size: 32px; text-align: center;
 }
 
-#2020 {font-size: 26px;
+#2020 {font-size: 26px; text-align: center;
 }
 
-#2019 {font-size: 26px;
+#2019 {font-size: 26px; text-align: center;
 }
 
 div {
