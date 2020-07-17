@@ -1,6 +1,10 @@
 
 html {
     background-color: #999966;
+}
+html {
+  text-align: center;
+}
 
 #music {font-size: 32px;
 }
@@ -15,10 +19,6 @@ html {
 }
 
 #2019 {font-size: 26px;
-}
-
-html {
-  text-align: center;
 }
 
 div {
