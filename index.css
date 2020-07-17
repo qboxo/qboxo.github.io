@@ -13,14 +13,6 @@ html {
 #links {
     columns: 300px 1; text-align: center;
 }
-#music {font-size: 32px; text-align: center;
-}
-
-#writings {font-size: 32px; text-align: center;
-}
-
-#contact {font-size: 32px; text-align: center;
-}
 
 div {
   text-align: justify;
