@@ -5,7 +5,7 @@ html {
     
 
 #about {
-  columns: 700px 1; text-align: left;
+  columns: 700px 1; text-align: right;
 }
     #music {font-size: 34px;
     }
