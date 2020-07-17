@@ -2,11 +2,13 @@
 html {
     background-color: #999966;
     
-    
-
-#about {
-  columns: 700px 1; text-align: right;
+   #about {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
+
     #music {font-size: 40px;
     }
     #writings {font-size: 40px;
