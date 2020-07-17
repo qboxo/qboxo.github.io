@@ -3,13 +3,19 @@ html {
     background-color: #999966;
 }
 
-#music {font-size: 40px;
+#music {font-size: 32px;
 }
 
-#writings {font-size: 40px;
+#writings {font-size: 32px;
 }
 
-#contact {font-size: 40px;
+#contact {font-size: 32px;
+}
+
+#2020 {font-size: 26px;
+}
+
+#2019 {font-size: 26px;
 }
 
 html {
